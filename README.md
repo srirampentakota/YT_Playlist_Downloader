@@ -4,7 +4,7 @@ This repository consists of python scripts which can download a playlist or a se
 Inorder to setup the code follow below steps:
 ---------------------------------------------
 
- 1. Download the repository in your local machine.
+ 1. Clone the repository in your local machine.
  2. Open the folder and open termianl in current working directory.
  3. Install all the packages mentioned in requirements.txt.
  4. Use the below command to install all packages.
@@ -41,3 +41,5 @@ If you want to download a set of videos from the You Tube follow the below steps
  6. Select 1 or 2 based on the quality with which you want to download all videos.
  7. All videos will be downloaded in the current directory.
 
+----------------------
+!!!!!!!!!!!!!!!!!!!!!

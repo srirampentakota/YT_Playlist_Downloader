@@ -37,7 +37,7 @@ If you want to download a set of videos from the You Tube follow the below steps
  3. Open terminal in current working directory.
  4. Enter the below command.
     command: python3 videos_download.py
- 5. You will see 2 options 360 and 720 in the termial.
+ 5. You will able to see 2 options 360 and 720 in the termial.
  6. Select 1 or 2 based on the quality with which you want to download all videos.
  7. All videos will be downloaded in the current directory.
 
